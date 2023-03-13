@@ -9,3 +9,6 @@ https://github.com/Mihir2423/niet_codetantra
 
 ## Check out this video below :
 https://youtu.be/icJEUYyHJCg
+
+! Note
+The auto click code is for lectures containing only one array of questions.
