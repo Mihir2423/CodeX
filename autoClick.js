@@ -18,3 +18,6 @@ function executeCode(qcount,end) {
 }
 
 executeCode(1,10);
+
+
+// For lectures containing 1 array of questions.
