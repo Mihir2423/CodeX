@@ -1,7 +1,7 @@
 # CodeX
 CodeTantra Problem Solving helper
 
-# PreRequisites
+## PreRequisites
 Download Python and its library Pyautogui.
 
 ## Github Link of solutions
